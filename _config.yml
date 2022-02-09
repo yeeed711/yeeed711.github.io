@@ -110,10 +110,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "rladpwl910@naver.com"
+      # url: "rladpwl910@naver.com"
     - label: "Naver blog"
       icon: "fas fa-fw fa-link"
-      url: "https://blog.naver.com/rladpwl910"
+      # url: "https://blog.naver.com/rladpwl910"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -122,10 +122,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://yeeed711.github.com/"
+      # url: "https://yeeed711.github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/avar.ice/"
+      # url: "https://www.instagram.com/avar.ice/"
 
 # Site Footer
 footer:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url:"https://yeeed711.github.com/"
+      # url:"https://yeeed711.github.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
