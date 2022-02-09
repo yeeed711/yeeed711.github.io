@@ -104,16 +104,16 @@ analytics:
 author:
   name             : "YEJI-KIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **growing** person."
   location         : "Seoul/South Korea"
-  email            : "rladpwl919@naver.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rladpwl910@naver.com"
+      url: "rladpwl910@naver.com"
     - label: "Naver blog"
       icon: "fas fa-fw fa-link"
-      # url: "https://blog.naver.com/rladpwl910"
+      url: "https://blog.naver.com/rladpwl910"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
