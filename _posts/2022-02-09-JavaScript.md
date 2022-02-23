@@ -59,6 +59,7 @@ console.log(typeof hi); // string
 `typeof`는 뒤에오는 값의 데이터타입이 무엇인지 알려준다.
 
 >데이터 타입을 숫자로만 받고싶다면 `parseInt`를 사용한다.
+
 ```js
 const age = parseInt(prompt());
 // prompt에 10을 입력받으면
